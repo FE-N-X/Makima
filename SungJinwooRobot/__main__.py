@@ -56,15 +56,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello there, My Name is [Sung Jin-Woo](https://telegra.ph/file/f48f5be2c7ed4600d1002.mp4)
-I am a Anime Themed Group managing bot from Solo leveling
+Hello there, My Name is Makima
+I am a Anime Themed Group managing bot from Chainsaw Man
 I will help you manage your group.
 ✏️ Click Below help button or send /help to know all my Commands.
 """
 buttons = [
     [        
         InlineKeyboardButton(
-        text="☑️Add Sung Jin-woo to your Group", url="t.me/SungJinWooRobot?startgroup=true"
+        text="☑️Add Makima to your Group", url="t.me/MAKIMA_NX_BOT?startgroup=true"
         ),
     ],
     [        
