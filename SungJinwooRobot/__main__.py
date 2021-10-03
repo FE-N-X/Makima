@@ -56,8 +56,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hello there, My Name is Makima
-I am a Anime Themed Group managing bot from Chainsaw Man
+Hello there, My Name is Makima 
+I am a Anime Themed Group managing bot from Chainsaw Man Created By @FE_N_X
 I will help you manage your group.
 ✏️ Click Below help button or send /help to know all my Commands.
 """
@@ -69,10 +69,10 @@ buttons = [
     ],
     [        
         InlineKeyboardButton(
-        text="🚔 Support", url=f"https://t.me/{SUPPORT_CHAT}"
+        text="🚔 Support", url=f"https://t.me/{FENX_CHAT}"
         ),
         InlineKeyboardButton(
-        text="📚 Solo Leveling", url=f"https://t.me/Solo_Leveling_Webtoon"
+        text="📚 Chainsaw Man", url=f"https://t.me/chain_saw_man_english"
         ),
     ],
     [
@@ -82,14 +82,14 @@ buttons = [
     ]
 ]
 HELP_STRINGS = """
-*Main Commands*[:](https://telegra.ph/file/cdc84cf96c58eb4a01dfa.png)
+*Main Commands*[:](https://te
 ✏️ /help: PM's you this message.
 ✏️ /start: You have already used it.
 *All commands can either be used with / or !.*  
 """
 
-DONATE_STRING = """donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+
+
 
 IMPORTED = {}
 MIGRATEABLE = []
