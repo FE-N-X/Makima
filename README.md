@@ -5,7 +5,7 @@
 
 A modular Telegram Group Management bot, can be found on telegram as [Makima](https://t.me/).
 
-The Support group can be reached out to at [Hunters Associations](https://t.me/HuntersAssociations), where you can ask for help about [Makima](https://t.me/), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [FENX CHAT](https://t.me/FENX_CHAT), where you can ask for help about [Makima](https://t.me/), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
