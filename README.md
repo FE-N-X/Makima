@@ -1,5 +1,5 @@
 ![Makima](https://telegra.ph/file/cc951a72b7416a2dedc02.jpg)
-# Sung Jin-Woo 
+# Makima
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
 
 
