@@ -79,7 +79,7 @@ if ENV:
     API_HASH = os.environ.get('API_HASH', None)
     DB_URI = os.environ.get('DATABASE_URL')
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
-    REDIS_URL = os.environ.get('REDIS_URL')
+    REDIS_URL = os.environ.get("REDIS_URL")
     STRING_SESSION = os.environ.get("STRING_SESSION", None)
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     MONGO_PORT = os.environ.get("MONGO_PORT", None)
