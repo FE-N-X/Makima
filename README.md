@@ -1,11 +1,11 @@
-![Sung Jin-Woo](https://telegra.ph/file/cc951a72b7416a2dedc02.jpg)
+![Makima](https://telegra.ph/file/cc951a72b7416a2dedc02.jpg)
 # Sung Jin-Woo 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
 
 
-A modular Telegram Group Management bot, can be found on telegram as [Sung Jin-Woo](https://t.me/SungJinwooRobot).
+A modular Telegram Group Management bot, can be found on telegram as [Makima](https://t.me/).
 
-The Support group can be reached out to at [Hunters Associations](https://t.me/HuntersAssociations), where you can ask for help about [Sung Jin-Woo](https://t.me/SungJinwooRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Hunters Associations](https://t.me/HuntersAssociations), where you can ask for help about [Makima](https://t.me/), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
